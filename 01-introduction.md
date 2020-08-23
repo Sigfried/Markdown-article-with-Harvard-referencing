@@ -4,6 +4,8 @@ This Markdown file is the first file referenced in the _main.tex_ file. Overleaf
 
 These packages are responsible for defining the look of your document, which leaves you to concentrate on the important stuff: the text, the images, and the figures.
 
+trying a cite here [@ackermanSharingKnowledgeExpertise2013] is great
+
 ## This is a sub-heading
 
 As you can see, the chapter/section heading **Introduction** has been generated through the use of a single '\hash' symbol, which is referred to as a **h1** heading within Markdown. The sub-heading for this section is a **h2**, which is the equivalent of two hash symbols, '\hash \hash', in Markdown.  
